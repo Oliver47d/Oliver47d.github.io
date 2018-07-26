@@ -1,6 +1,6 @@
 # Dev Portfolio
 
-The template is taken from git hub repo: https://github.com/RyanFitzgerald/devportfolio#general
+The template is taken from github repo: https://github.com/RyanFitzgerald/devportfolio#general
 
 To view a live demo, [click here](https://ryanfitzgerald.github.io/devportfolio/).
 
